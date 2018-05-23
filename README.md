@@ -15,3 +15,7 @@ The code produced for this paper is nearly all Matlab developed in version 2017a
 * process_J.m - Load the custom curve-fitting GUI used to find the best-fit relative mobility parameters (stored in ./jfits)
 
 Correspondence: Sam Brooke, sbrooke@tuta.io
+
+
+[![DOI](https://zenodo.org/badge/134597684.svg)](https://zenodo.org/badge/latestdoi/134597684)
+
